@@ -45,7 +45,7 @@ you will have to buy them by separate orders)
 
 # Component layout
 
-Thanks to the angular framework it gave us the possibility to keep our code
+Thanks to the angular framework that gave us the possibility to keep our code
 sections in a more orderly fashion. For this reason, a structure of
 components with the purpose of having the 3 sections separated from each other.
 The distribution of components and management of folders is carried out as follows
